@@ -1,6 +1,6 @@
 # My Matrix
 
-## Nicholas Norman, August 2024
+## Mario Espinoza, Spring 2026
 
 As of August 2024, I am currently enrolled in a linear algebra course. We are practicing with augmented matrices and putting them in row reduced echelon form. So, as practice into the purview of linear algebra and computer science, I have tasked myself with doing my best to write a program that takes a matrix and row reduces it.
 
